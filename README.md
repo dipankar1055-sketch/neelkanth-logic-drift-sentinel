@@ -121,3 +121,46 @@ Estimated Logic Drift Tax: ₹11,050
 
 Recommendation: Human Review Required
 
+# Neelkanth Protocol – Day 6 Operational Resilience Stress Test
+
+**Date:** 2026-06-03  
+**Headcount:** 15 FTEs (simulated)  
+**Demand:** 4,200 units/day SLA  
+**Shrinkage:** 15% daily  
+**Attrition:** 20% annual  
+
+## PIR Calculation & AI Autonomy Scaling
+
+- Effective FTEs: 12.1
+- Required units/FTE: 347
+- Human baseline capacity: 200 units/FTE/day
+- Baseline AI Adaptability Score: 40 → PIR 8.7 (critical)
+
+**Protocol Response:** Scaled AI autonomy to 70% (data extraction, pattern recognition, drift monitoring).  
+**Resulting manual units/FTE:** 104 (within 80% capacity)  
+**Post‑scaling PIR:** 0.52 (optimal)
+
+## Governance Outcome
+
+- Target achieved: ✅
+- Logic drift: 0.38% (GREEN)
+- HITL attestation: 100% for high‑risk decisions
+- #MehendiPrinciple upheld
+- No burnout / drift escalation
+
+**Trace‑ID:** NKP-2026-STRESS-001  
+**HAT ID:** HAT-BETA-006  
+
+## Simulation Log
+
+```markdown
+Date: 2026-06-03
+Metric ID: STRESS-AI-001
+Action: Day 6 Operational Resilience Stress Test – 15 FTEs, 4,200 units target
+Status: Success – achieved with 70% AI autonomy
+Human Attestation ID: HAT-BETA-006
+Logic Drift Check: Pass
+PIR (Pre‑scaling): 8.7
+PIR (Post‑scaling): 0.52
+AI Autonomy Scaled: 40% → 70%
+
