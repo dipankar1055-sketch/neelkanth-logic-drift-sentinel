@@ -48,3 +48,33 @@ The daily audit logs and consolidated governance records document:
 - Governance Stabilization
 
 Source: `consolidated-log-v2.0.txt`
+
+## Demo Scenario
+
+### Input
+
+Transaction Alert: TXN-2026-00471
+
+* AML Risk Score: 68/100
+* Queue Depth: 47
+* Drift Score: 1.8%
+* Confidence Level: 92%
+
+### Foundry IQ Evidence
+
+* KYC Policy: KYC-POL-2026-02
+* SOP: SOP-KYC-04 v2.1
+* RBI KYC Master Direction
+
+### Output
+
+Decision: HOLD
+
+Governance Status: ESCALATED
+
+Trace ID: NKP-2026-00471
+
+Estimated Logic Drift Tax: ₹11,050
+
+Recommendation: Human Review Required
+
