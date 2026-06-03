@@ -6,6 +6,24 @@
 
 The Neelkanth Protocol is an AI Governance Agent built for BFSI. It detects "Logic Drift" in real-time, enforces Human-in-the-Loop (HOTL) governance, and provides an indelible audit trail. By integrating with Microsoft Foundry IQ, we transform operational management from a manual bottleneck into an autonomous, audit-ready ecosystem.
 
+## Microsoft Agents League Alignment
+
+Track:
+🧠 Reasoning Agents
+
+Platform:
+Microsoft Foundry
+
+IQ Layer:
+✅ Foundry IQ
+
+Industry:
+🏦 Banking & Financial Services (BFSI)
+
+Challenge Focus:
+AI Governance, Operational Resilience, Logic Drift Detection, Human-on-the-Loop Governance
+
+
 ## Performance & Impact (Days 1–4)
 
 * **Verified Transactional Value**: ₹81.98 Cr
