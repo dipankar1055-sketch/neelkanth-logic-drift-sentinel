@@ -1,0 +1,59 @@
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                    NEELKANTH PROTOCOL V2.0 – ARCHITECTURE                    │
+│                          (Days 1–5 / 3,000 live days)                        │
+└─────────────────────────────────────────────────────────────────────────────┘
+                                    │
+                                    ▼
+                        ┌───────────────────────┐
+                        │   🐅 TIGER             │
+                        │ Human Controller       │
+                        │ HOTL | Final Adjudication
+                        └───────────┬───────────┘
+                                    │
+        ┌───────────────┬───────────┼───────────┬───────────────┐
+        ▼               ▼           ▼           ▼               ▼
+┌──────────────┐ ┌──────────────┐ ┌──────────────┐ ┌──────────────┐
+│ 🧠 ALPHA     │ │ 🔧 CHARLIE   │ │ 📋 DELTA     │ │ ⚙️ BETA      │
+│ Intelligence │ │ Drift Detect │ │ Audit & Recon│ │ Orchestration│
+│ Pattern      │ │ Patch Deploy │ │ Trace‑ID     │ │ Kill Switch  │
+└──────┬───────┘ └──────┬───────┘ └──────┬───────┘ └──────┬───────┘
+       │                │                │                │
+       └────────────────┴────────────────┴────────────────┘
+                                │
+                                ▼
+                ┌───────────────────────────────────────┐
+                │         SENTINEL AGENT                │
+                │ • Runtime drift detection             │
+                │ • Deployment‑time audit test          │
+                │ • HAT attestation tracking            │
+                │ • Kill Switch thresholds              │
+                └───────────────────┬───────────────────┘
+                                    │
+                                    ▼
+                ┌───────────────────────────────────────┐
+                │      OPERATIONS LAYER                 │
+                │   19 LOBs · 1,000+ FTEs               │
+                │ • Credit Card • Insurance • Mortgage  │
+                │ • AI Help Desk • KYC/AML • TradeOps   │
+                │ • Retirement • O2C • Telecom/UPI      │
+                └───────────────────┬───────────────────┘
+                                    │
+        ┌───────────────────────────┼───────────────────────────┐
+        ▼                           ▼                           ▼
+┌───────────────────┐   ┌───────────────────┐   ┌───────────────────┐
+│ #MehendiPrinciple │   │ #LongewalaDoctrine│   │#GumnamKuheliPrinc│
+│ 100% HAT Register │   │ 1:6 Governance    │   │ Silent Drift      │
+│ No auto‑bypass    │   │ Ratio maintained  │   │ Real‑time flagging│
+└───────────────────┘   └───────────────────┘   └───────────────────┘
+        │                           │                           │
+        └───────────────────────────┼───────────────────────────┘
+                                    ▼
+                ┌───────────────────────────────────────┐
+                │         CONTROLS & OUTPUTS            │
+                │ • Kill Switch (99.5% audit trigger)   │
+                │ • Geofenced audit partitioning        │
+                │ • Pre‑deployment audit‑link test      │
+                │ • Trace‑ID + SHA‑256 hash             │
+                │ • Audit completeness 99.7%            │
+                │ • Retrieval time 5.8 min              │
+                └───────────────────────────────────────┘
