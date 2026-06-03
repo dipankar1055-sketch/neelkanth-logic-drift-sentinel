@@ -23,6 +23,22 @@ Industry:
 Challenge Focus:
 AI Governance, Operational Resilience, Logic Drift Detection, Human-on-the-Loop Governance
 
+## 📊 Neelkanth Unified Dashboard Metrics (Days 1–5)
+
+| Category | Metric | Value | Target | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **Operational Output** | Production per FTE | 34/day | ≥34 | 🟢 |
+| | SLA | 99.7% | >99.5% | 🟢 |
+| | TAT (audit retrieval) | 5.8 min | <15 min | 🟢 |
+| | Accuracy | 99.2% | >99% | 🟢 |
+| **Human Capital** | Skillability (drift response) | 12 min avg | <30 min | 🟢 |
+| | PKT (new SME onboarding) | 14 days | <21 days | 🟢 |
+| **AI Integration** | AI Adaptability (HAT latency) | 12 min | <15 min | 🟢 |
+| | AI Implementation Score | 100% | 100% | 🟢 |
+| **Financial/Resource** | 1 LE (Linear Equivalent) | 0.97 | >0.95 | 🟢 |
+| | Hiring Cost / FTE | ₹44,000 | ±10% variance | 🟢 |
+| | 1:6 EBITDA Protection | ✅ Validated | – | ✅ |
+
 
 ## Performance & Impact (Days 1–4)
 
