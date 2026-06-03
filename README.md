@@ -164,3 +164,9 @@ PIR (Pre‑scaling): 8.7
 PIR (Post‑scaling): 0.52
 AI Autonomy Scaled: 40% → 70%
 
+```markdown
+    ## 🛡️ Operational Stress Testing
+    We continuously validate the protocol against simulated "Black Swan" events.
+    - **Current Simulation**: [Black Swan Code Red (June 3, 2026)](SIMULATION_LOGS.md#black-swan-001)
+    - **Outcome**: Successfully maintained PIR of 0.75 during mortgage spike with 73% staff reduction.
+
