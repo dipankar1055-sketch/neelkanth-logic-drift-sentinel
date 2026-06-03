@@ -153,7 +153,7 @@ Recommendation: Human Review Required
 
 ## Simulation Log
 
-```markdown
+markdown
 Date: 2026-06-03
 Metric ID: STRESS-AI-001
 Action: Day 6 Operational Resilience Stress Test – 15 FTEs, 4,200 units target
@@ -164,9 +164,12 @@ PIR (Pre‑scaling): 8.7
 PIR (Post‑scaling): 0.52
 AI Autonomy Scaled: 40% → 70%
 
-```markdown
-    ## 🛡️ Operational Stress Testing
-    We continuously validate the protocol against simulated "Black Swan" events.
-    - **Current Simulation**: [Black Swan Code Red (June 3, 2026)](SIMULATION_LOGS.md#black-swan-001)
-    - **Outcome**: Successfully maintained PIR of 0.75 during mortgage spike with 73% staff reduction.
+## 🛡️ Operational Stress Testing
+We continuously validate the protocol against simulated "Black Swan" events to ensure systemic resilience.
+
+> **Current Simulation**: [Black Swan Code Red (June 3, 2026)](SIMULATION_LOGS.md#black-swan-001)
+> * **Scenario**: Mortgage query spike (+340%) + Technical call drops (12%) + 73% staff reduction.
+> * **Resilience Outcome**: Successfully maintained a **Pressure-Integrity Ratio (PIR) of 0.75** (Optimal).
+> * **Governance Impact**: 100% adherence to #MehendiPrinciple; zero unauthorized rate advice given.
+
 
