@@ -14,6 +14,31 @@ Built around the Mehendi Principle, Longewala Doctrine, and Gumnam Kuheli Princi
 
 The solution was validated through a compressed 3,000-day operational simulation representing a 1,000+ FTE BFSI environment spanning 20 operational Lines of Business (LOBs).
 
+## Regulatory Alignment & Future Readiness
+
+The Neelkanth Protocol is designed around the principle that AI governance must be embedded into operational architecture from Day 1.
+
+Emerging regulatory frameworks—including India's DPDP Act, RBI AI governance guidance, the EU AI Act, and evolving U.S. Automated Decision-Making Technology (ADMT) regulations—are increasingly emphasizing:
+
+* Human-on-the-Loop (HOTL) governance
+* Explainable AI decisions
+* Traceable data lineage
+* Continuous event logging
+* Audit-ready controls
+* Accountability for high-risk AI systems
+
+Neelkanth addresses these requirements through:
+
+* Logic Drift Detection
+* Human Attestation Tracking (HAT)
+* Trace-ID Framework
+* Governance-as-Code controls
+* Audit-ready decision logging
+* Operational resilience monitoring
+
+The protocol assumes that future BFSI AI systems will require continuous governance validation rather than post-deployment compliance reviews.
+
+
 ---
 # Current Project Status
 
