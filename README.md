@@ -33,7 +33,20 @@ The solution was validated through a compressed **3,000‑day operational simula
 | Regulatory Breaches | **0** |
 | Kill Switch Activations | **1 (partial · Day 3)** |
 
+## 📈 Simulation Validation Scale
+
+| Metric                                                    | Value                 |
+| --------------------------------------------------------- | --------------------- |
+| Simulated Transactional Value Processed During Validation | ₹81.98 Cr Equivalent  |
+| Simulated Workforce Size                                  | 1,000+ FTE Equivalent |
+| Operational LOB Coverage                                  | 20                    |
+| Simulation Duration                                       | 3,000-Day Equivalent  |
+| Trace-ID Coverage                                         | 99.9%                 |
+| Audit Completeness                                        | 99.5%                 |
+
+
 **Logic Drift Tax:**  
+
 *The annualised Logic Drift Tax exposure for a 1,000+ FTE BFSI operation is **₹20.9 Cr**. The Neelkanth Protocol avoided **₹18.2 Cr** of that exposure during the 3,000‑day equivalent simulation.*
 
 ---
@@ -220,7 +233,6 @@ neelkanth-logic-drift-sentinel/
 │ └── tiebreaker-emergency-playbooks.md
 └── visuals/
 └── architecture-diagram.png
-
 
 ---
 
