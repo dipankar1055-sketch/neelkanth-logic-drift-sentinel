@@ -263,6 +263,32 @@ neelkanth-logic-drift-sentinel/
 - **GitHub Repository:** [dipankar1055-sketch/neelkanth-logic-drift-sentinel](https://github.com/dipankar1055-sketch/neelkanth-logic-drift-sentinel)  
 - **LinkedIn:** [Dipankar Kundu](https://www.linkedin.com/in/dipankar2026p)
 
+📌 Repository Status
+
+Include:
+
+BUILD PHASE ACTIVE
+
+Current focus:
+
+* Prototype enhancement
+* Foundry integration
+* Governance automation
+* Audit persistence
+* Production-ready architecture
+
+Roadmap:
+
+Phase 1 — Governance Validation ✅
+
+Phase 2 — MVP Prototype ✅
+
+Phase 3 — Foundry Integration 🔄
+
+Phase 4 — Enterprise Deployment Architecture 🔄
+
+Phase 5 — Production Governance Agent 🔄
+
 ---
 
 ## 📝 Final Attestation (DELTA)
