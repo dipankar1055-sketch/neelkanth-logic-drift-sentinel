@@ -179,6 +179,31 @@ The Neelkanth Protocol compresses a simulated **3,000‑day operational lifecycl
 - **Sample HAT‑ID:** `HAT-DELTA-007` (final audit attestation)
 
 ---
+Update README.md.
+
+Insert a new section immediately before the "Demo Scenario" section.
+
+Title:
+
+🚀 Working Prototype (Build Phase)
+
+Include:
+
+* Transaction Intake
+* Logic Drift Detection
+* Governance Decision Engine
+* Human-on-the-Loop (HOTL) Attestation
+* Trace-ID Generation
+* HAT-ID Generation
+* Audit Trail Logging
+* Foundry IQ Policy Citation Layer (Mock)
+
+Add Streamlit demo URL.
+
+Add build status table showing MVP complete and future roadmap items.
+
+Do not alter simulation results, governance metrics, DELTA attestation, or architecture sections.
+
 
 ## 🎬 Demo Scenario (End‑to‑End Closure)
 
