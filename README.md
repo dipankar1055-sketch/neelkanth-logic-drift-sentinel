@@ -10,44 +10,42 @@
 
 ## 📜 Disclaimer
 
-> All operational metrics, financial figures, governance scenarios, stress tests and simulation outputs are **illustrative demonstrations** created using the Neelkanth Protocol framework for research, validation and hackathon purposes. They do not represent any specific institution, regulator, customer or production environment.
+> All operational metrics, financial figures, governance scenarios, stress tests and simulation outputs are illustrative demonstrations created using the Neelkanth Protocol framework for research, validation and hackathon purposes. They do not represent any specific institution, regulator, customer or production environment.
 
 ---
 
 ## 📌 Executive Summary
 
-The **Neelkanth Protocol** is an AI Governance Agent built for Banking, Financial Services and Insurance (BFSI) operations. It continuously detects **Logic Drift**, enforces **Human‑on‑the‑Loop (HOTL)** governance, preserves institutional memory, and maintains audit‑ready decision trails at enterprise scale.
+The Neelkanth Protocol is an AI Governance Agent built for Banking, Financial Services and Insurance (BFSI) operations. It continuously detects **Logic Drift**, enforces **Human‑on‑the‑Loop (HOTL)** governance, preserves institutional memory, and maintains audit‑ready decision trails at enterprise scale.
 
 Built around the **#MehendiPrinciple**, **#LongewalaDoctrine**, and **#GumnamKuheliPrinciple**, the protocol transforms governance from reactive remediation into autonomous **Governance‑as‑Code**.
 
-The solution was validated through a compressed **3,000‑day operational simulation** representing a 1,000+ FTE BFSI environment spanning **20 operational Lines of Business (LOBs)**.
+The solution was validated through a compressed **3,000‑day operational simulation** representing a 1,000+ FTE BFSI environment spanning 20 operational Lines of Business (LOBs).
 
 **Locked final metrics (DELTA audit, June 5, 2026):**
 
 | Metric | Value |
 | :--- | :--- |
-| Final Logic Drift | **0.41%** |
-| Audit Completeness | **99.5%** |
-| Trace‑ID Coverage | **99.9%** |
-| HAT Register | **100%** |
-| Regulatory Breaches | **0** |
-| Kill Switch Activations | **1 (partial · Day 3)** |
+| Final Logic Drift | 0.41% |
+| Audit Completeness | 99.5% |
+| Trace‑ID Coverage | 99.9% |
+| HAT Register | 100% |
+| Regulatory Breaches | 0 |
+| Kill Switch Activations | 1 (partial · Day 3) |
 
 ## 📈 Simulation Validation Scale
 
-| Metric                                                    | Value                 |
-| --------------------------------------------------------- | --------------------- |
-| Simulated Transactional Value Processed During Validation | ₹81.98 Cr Equivalent  |
-| Simulated Workforce Size                                  | 1,000+ FTE Equivalent |
-| Operational LOB Coverage                                  | 20                    |
-| Simulation Duration                                       | 3,000-Day Equivalent  |
-| Trace-ID Coverage                                         | 99.9%                 |
-| Audit Completeness                                        | 99.5%                 |
-
+| Metric | Value |
+| :--- | :--- |
+| Simulated Transactional Value Processed During Validation | ₹81.98 Cr Equivalent |
+| Simulated Workforce Size | 1,000+ FTE Equivalent |
+| Operational LOB Coverage | 20 |
+| Simulation Duration | 3,000-Day Equivalent |
+| Trace-ID Coverage | 99.9% |
+| Audit Completeness | 99.5% |
 
 **Logic Drift Tax:**  
-
-*The annualised Logic Drift Tax exposure for a 1,000+ FTE BFSI operation is **₹20.9 Cr**. The Neelkanth Protocol avoided **₹18.2 Cr** of that exposure during the 3,000‑day equivalent simulation.*
+The annualised Logic Drift Tax exposure for a 1,000+ FTE BFSI operation is ₹20.9 Cr. The Neelkanth Protocol avoided ₹18.2 Cr of that exposure during the 3,000‑day equivalent simulation.
 
 ---
 
@@ -83,6 +81,18 @@ Unchecked Logic Drift introduces compliance failures, audit exceptions, operatio
 | **#MehendiPrinciple** | Human accountability remains indelible. Every governance‑sensitive decision is linked to a Trace‑ID, Human Attestation (HAT‑ID), and audit evidence. |
 | **#LongewalaDoctrine** | Governance scales through lean command structures (1 Governance Controller : 6 Operational Resources) rather than excessive supervision. |
 | **#GumnamKuheliPrinciple** | Institutional memory survives employee attrition. Knowledge belongs to systems, not individuals. |
+
+---
+
+## 🌟 The Five Pillars of Neelkanth (Where Poetry Meets Engineering)
+
+| Element | Attribute | What It Means in Production |
+| :--- | :--- | :--- |
+| Uttam’s seduction | User Engagement | Intuitive HITL workflows, clear dashboards, and a live demo that invites exploration. |
+| Nana’s strike | Precision / Action | Sub‑5‑minute drift detection, kill‑switch discipline, and zero‑ambiguity escalation. |
+| Meryl’s brilliance | Cognitive depth | Multi‑agent reasoning (ALPHA/CHARLIE), macro‑event intelligence, and regulatory horizon scanning. |
+| Julie’s grace | Seamless UI/UX | Clean audit trail presentation, role‑based views, and a non‑intrusive governance layer. |
+| Rukmini’s spell | Human‑in‑the‑Loop trust | #MehendiPrinciple, immutable HAT‑IDs, and regulator‑ready evidence trails. |
 
 ---
 
@@ -170,6 +180,7 @@ The Neelkanth Protocol compresses a simulated **3,000‑day operational lifecycl
 *14 total drift events detected across 5 simulation days – 5 major threshold‑breach events logged in daily audit records, 9 sub‑threshold micro‑drift events flagged by Sentinel and resolved without escalation. All 14 contained within 24 hours. Zero regulatory breaches.*
 
 ---
+
 ## 📋 DELTA Audit & HAT Register
 
 - **Trace‑ID Coverage:** 99.9%  
@@ -180,23 +191,24 @@ The Neelkanth Protocol compresses a simulated **3,000‑day operational lifecycl
 
 ---
 
-🚀 Working Prototype (Build Phase)
+## 🚀 Working Prototype (Build Phase)
 
-Include:
+**Include:**
 
-* Transaction Intake
-* Logic Drift Detection
-* Governance Decision Engine
-* Human-on-the-Loop (HOTL) Attestation
-* Trace-ID Generation
-* HAT-ID Generation
-* Audit Trail Logging
-* Foundry IQ Policy Citation Layer (Mock)
+- Transaction Intake
+- Logic Drift Detection
+- Governance Decision Engine
+- Human-on-the-Loop (HOTL) Attestation
+- Trace-ID Generation
+- HAT-ID Generation
+- Audit Trail Logging
+- Foundry IQ Policy Citation Layer (Mock)
+
+---
 
 ## 🎬 Demo Scenario (End‑to‑End Closure)
 
 **Input:**
-
 Transaction Alert: TXN-2026-00471
 AML Risk Score: 68/100
 Queue Depth: 47
@@ -210,22 +222,24 @@ SOP-KYC-04 v2.1
 
 RBI KYC Master Direction
 
-**Output:**
+text
 
+**Output:**
 Decision: HOLD
 Governance Status: ESCALATED
 Trace-ID: NKP-2026-00471
 Estimated Logic Drift Tax: ₹11,050
 Recommendation: Human Review Required
 
+text
 
 **Closing step (HOTL closure):**
 
 > *Human reviewer completes review → **HAT-TIGER-016** assigned → Decision: **CLEARED / FLAGGED FOR INVESTIGATION** → Trace-ID NKP-2026-00471 sealed → Audit log updated → Loop closed.*
 
 ---
-## 📁 Repository Structure
 
+## 📁 Repository Structure
 neelkanth-logic-drift-sentinel/
 ├── README.md
 ├── LICENSE
@@ -247,6 +261,8 @@ neelkanth-logic-drift-sentinel/
 └── visuals/
 └── architecture-diagram.png
 
+text
+
 ---
 
 ## ✅ Version History (V4.0 → V4.3)
@@ -263,31 +279,27 @@ neelkanth-logic-drift-sentinel/
 - **GitHub Repository:** [dipankar1055-sketch/neelkanth-logic-drift-sentinel](https://github.com/dipankar1055-sketch/neelkanth-logic-drift-sentinel)  
 - **LinkedIn:** [Dipankar Kundu](https://www.linkedin.com/in/dipankar2026p)
 
-📌 Repository Status
+---
 
-Include:
+## 📌 Repository Status
 
-BUILD PHASE ACTIVE
+**BUILD PHASE ACTIVE**
 
 Current focus:
 
-* Prototype enhancement
-* Foundry integration
-* Governance automation
-* Audit persistence
-* Production-ready architecture
+- Prototype enhancement
+- Foundry integration
+- Governance automation
+- Audit persistence
+- Production-ready architecture
 
-Roadmap:
+**Roadmap:**
 
-Phase 1 — Governance Validation ✅
-
-Phase 2 — MVP Prototype ✅
-
-Phase 3 — Foundry Integration 🔄
-
-Phase 4 — Enterprise Deployment Architecture 🔄
-
-Phase 5 — Production Governance Agent 🔄
+- Phase 1 — Governance Validation ✅
+- Phase 2 — MVP Prototype ✅
+- Phase 3 — Foundry Integration 🔄
+- Phase 4 — Enterprise Deployment Architecture 🔄
+- Phase 5 — Production Governance Agent 🔄
 
 ---
 
@@ -299,4 +311,3 @@ Phase 5 — Production Governance Agent 🔄
 ---
 
 **#MehendiPrinciple | #LongewalaDoctrine | #GumnamKuheliPrinciple | #NeelkanthProtocol | #BhairabBattalion**
-
