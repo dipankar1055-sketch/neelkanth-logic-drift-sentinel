@@ -190,6 +190,84 @@ The Neelkanth Protocol compresses a simulated **3,000‑day operational lifecycl
 - **Sample HAT‑ID:** `HAT-DELTA-007` (final audit attestation)
 
 ---
+## 🔐 AI-Powered Vulnerability Intelligence – Claude Mythos
+
+As cyber threats become increasingly sophisticated, governance frameworks must monitor not only operational logic drift but also emerging cybersecurity risks.
+
+The Neelkanth Protocol architecture supports integration with advanced AI-assisted vulnerability analysis platforms, including Anthropic’s Claude Mythos cybersecurity capabilities, as part of the broader Governance-as-Code model.
+
+### Why This Matters
+
+Traditional governance controls focus on:
+
+* Process compliance
+* Operational execution
+* Audit integrity
+* Regulatory alignment
+
+However, modern BFSI environments must also address:
+
+* Application security drift
+* Infrastructure misconfigurations
+* Dependency vulnerabilities
+* Emerging cyber threats
+* Zero-day exposure risks
+
+By extending governance visibility into cybersecurity telemetry, the protocol strengthens enterprise resilience beyond operational controls alone.
+
+### Integration Across Governance Functions
+
+| Function                                  | Governance Responsibility                                                     |
+| ----------------------------------------- | ----------------------------------------------------------------------------- |
+| **IT, AI & Compliance Team**              | Coordinates vulnerability scanning and security governance activities         |
+| **CHARLIE – Governance Engineering**      | Monitors security-related drift trends and control deviations                 |
+| **DELTA – Audit & Reconciliation**        | Maintains Trace-ID and HAT-ID evidence for remediation activities             |
+| **ALPHA – Intelligence & Risk Analytics** | Incorporates cybersecurity signals into enterprise risk forecasting           |
+| **QRT / ERT**                             | Activated when critical vulnerabilities exceed defined remediation thresholds |
+
+### Example Governance KPIs
+
+| KRA                      | KPI                                  | Target                        |
+| ------------------------ | ------------------------------------ | ----------------------------- |
+| Vulnerability Visibility | Security scan coverage               | 100% of governed environments |
+| Critical Risk Response   | P1 remediation time                  | <4 hours                      |
+| Audit Traceability       | Trace-ID coverage                    | >99.9%                        |
+| Governance Compliance    | Remediation attestation              | 100%                          |
+| Cyber Resilience         | Critical vulnerabilities outstanding | Zero                          |
+
+### Governance Principle
+
+The Neelkanth Protocol treats cybersecurity events with the same governance discipline applied to operational logic drift.
+
+Every significant vulnerability event should have:
+
+* Trace-ID assignment
+* Human Attestation (HAT-ID)
+* Audit evidence
+* Escalation pathway
+* Recovery documentation
+
+This ensures cyber-resilience, operational resilience, and governance accountability remain aligned under a single Governance-as-Code framework.
+
+### Relationship to Existing Protocol Principles
+
+| Principle                  | Cybersecurity Interpretation                                                                                   |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **#MehendiPrinciple**      | Human accountability remains indelible. Security decisions require ownership and attestation.                  |
+| **#LongewalaDoctrine**     | Small governance teams can defend large environments through intelligence-driven controls.                     |
+| **#GumnamKuheliPrinciple** | Undetected vulnerabilities are a form of hidden drift and must be surfaced before institutional impact occurs. |
+
+### Governance Outcome
+
+The Neelkanth Protocol now governs two critical dimensions simultaneously:
+
+1. **Operational Logic Drift** – divergence between policy and execution.
+2. **Cybersecurity Drift** – divergence between secure and vulnerable system states.
+
+Together they create a unified Governance-as-Code framework capable of supporting modern BFSI operations, AI deployments, regulatory oversight, and enterprise resilience.
+
+**Source Reference:** Anthropic Project Glasswing research, public cybersecurity governance discussions, and enterprise governance architecture alignment principles.
+
 
 ## 🚀 Working Prototype (Build Phase)
 
